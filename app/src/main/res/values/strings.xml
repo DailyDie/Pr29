@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">28</string>
+    <string name="button">Button</string>
+    <string name="Dalee"><![CDATA[Далее>>]]></string>
+    <string name="textview">TextView</string>
+    <string name="number">Number</string>
+</resources>
